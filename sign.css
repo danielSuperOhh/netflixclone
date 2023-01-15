@@ -91,7 +91,7 @@ form button {
 
 form button a{
     text-decoration: none;
-    color: #fff;
+    color: #fff !important;
 }
 
 .remember {
